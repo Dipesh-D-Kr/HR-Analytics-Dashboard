@@ -11,7 +11,7 @@ Key highlights from our analysis:
 🔹 Average Salary: $6.5K
 🔹 Gender Distribution: 60% Male | 40% Female
 
-📌 Key Findings:
+📌 Key Findings: <br>
 ✔️ Education & Attrition: The highest attrition is among employees with Education Level 3 (549 cases).
 ✔️ Salary & Attrition: Majority (158) of employees leaving earn ≤ $5K.
 ✔️ Job Roles Impacted: Laboratory Technicians (60), Sales Executives (55), and Research Scientists (44) have the highest attrition.
